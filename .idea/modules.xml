@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/powerdownloader.iml" filepath="$PROJECT_DIR$/powerdownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreaded-Downloader.iml" filepath="$PROJECT_DIR$/Multithreaded-Downloader.iml" />
     </modules>
   </component>
 </project>
